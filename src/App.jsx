@@ -29,7 +29,7 @@ function App() {
           {/* Footer */}
           <footer className="py-8 bg-gray-800 mt-auto">
             <div className="container mx-auto text-center text-white">
-              <p>Made By Tahmis Zubair with ❤️ and ☕.</p>
+              <p>Made By Uttam Singh with ❤️ and ☕.</p>
             </div>
           </footer>
         </div>
