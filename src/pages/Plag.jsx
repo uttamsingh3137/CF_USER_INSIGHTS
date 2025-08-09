@@ -102,7 +102,7 @@ const Plag = () => {
                     value={userHandle}
                     onChange={handleInputChange}
                     className="w-[80%] max-w-md text-center px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                    placeholder="Example - NihalRawat"
+                    placeholder="Example - uttampratp9871"
                 />
                 <button
                     type="submit"
